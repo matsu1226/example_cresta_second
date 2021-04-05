@@ -385,8 +385,8 @@ footer p{
 
     /* fv */
     .main-copy{
-        position: static;
-        padding: 200px 4vw 0px;
+        padding: 350px 4vw 0px;
+        top: 0px;
     }
     .en-copy{
         font-size: 3.7rem;
