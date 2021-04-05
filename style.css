@@ -143,9 +143,18 @@ header.fixed{
     height: 100vh;
     min-height: 550px;
     position: relative;
-    background-image: url("img/fv-bgi_01@2x.jpg");
     background-size: cover;
     background-position:center;
+}
+.fv img{
+    height: 100vh;
+    min-height: 550px;
+    object-fit: cover;
+
+}
+
+.slick-arrow{
+    display: none !important ;
 }
 .main-copy{
     position: absolute;
