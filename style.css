@@ -385,12 +385,16 @@ footer p{
 
     /* fv */
     .main-copy{
-        padding: 350px 4vw 0px;
+        padding: 40vh 0vw 0px;
         top: 0px;
+        left: 0px;
+        width: 100vw;
     }
     .en-copy{
         font-size: 3.7rem;
         margin-bottom: 53px;
+        text-align: center;
+
     }
     .ja-copy{
         font-size: 3.0rem;
